@@ -77,11 +77,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- NBA stats data sources
-- Contributors and maintainers
-- Open source community
 
 ## 📧 Contact
 
